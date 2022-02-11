@@ -1,2 +1,2 @@
 # FCC_test2
-Test from freeCodeCamp.
+Test2 from freeCodeCamp.
